@@ -1,0 +1,12 @@
+
+repository: ParacoccidioidesDB/paracoccidioidesdb.github.io
+theme: jekyll-theme-minimal
+name: ParaDB
+title: ParaDB
+description: Paracoccidioides Database
+author: Menegidio, F.B.
+author_email: fabiano.menegidio@biology.bio.br
+
+logo: https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/logo.png
+
+show_downloads: true
