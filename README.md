@@ -11,3 +11,42 @@ ParaDB is a centralized database, dedicated to provide of a manually-curated rea
 ParaDB can be accessed through a friendly graphical interface, which offers search tools based on keywords or protein/DNA sequences. All data contained in ParaDB can be partially or completely downloaded through spreadsheet, multi-fasta and GFF3-formatted files, which can be subsequently used in a variety of functional analyses, constituting an important resource to assist researchers interested in conducting functional and comparative post-genomic studies with this important group of pathogenic fungi.
 
 ---
+
+# Localhost Install
+
+For a ParaDB installation on your local machine, only a few requirements are required:
+
+- Docker
+- Docker Compose
+
+For details on installing these prerequisites, visit the developers documentation.
+
+---
+
+## Starting the ParaDB container on localhost
+
+To start the ParaDB and Blast containers on localhost, run the following commands:
+
+```
+$ git clone
+$ cd
+$ docker-compose up -d
+```
+
+## Configuring the local hosts
+
+An additional step must be performed for local ParaDB operation. The operating system hosts file should point the domain of the ParaDB to the local IP (127.0.1.1) of the machine.
+
+Open the hosts file of your operating system with a text editor and add the following lines (in Linux, the file will be in /etc/hosts):
+
+```
+127.0.1.1        paracoccidioides.com
+127.0.1.1        bd01.paracoccidioides.com
+127.0.1.1        blast.paracoccidioides.com
+127.0.1.1        blast01.paracoccidioides.com
+
+```
+
+**Note:** Use a *tab* for the spacing between IP and Host.
+
+---
