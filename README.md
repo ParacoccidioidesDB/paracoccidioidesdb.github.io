@@ -35,6 +35,7 @@ $ docker-compose up -d
 
 Access http://localhost in your browser.
 
+---
 
 ### EXAMPLE: Video installation ParaDB:
 
