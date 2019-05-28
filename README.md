@@ -33,20 +33,4 @@ $ cd
 $ docker-compose up -d
 ```
 
-## Configuring the local hosts
-
-An additional step must be performed for local ParaDB operation. The operating system hosts file should point the domain of the ParaDB to the local IP (127.0.1.1) of the machine.
-
-Open the hosts file of your operating system with a text editor and add the following lines (in Linux, the file will be in /etc/hosts):
-
-```
-127.0.1.1        paracoccidioides.com
-127.0.1.1        bd01.paracoccidioides.com
-127.0.1.1        blast.paracoccidioides.com
-127.0.1.1        blast01.paracoccidioides.com
-
-```
-
-**Note:** Use a *tab* for the spacing between IP and Host.
-
----
+Access http://localhost in your browser.
