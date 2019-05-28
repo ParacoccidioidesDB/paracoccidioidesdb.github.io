@@ -23,6 +23,14 @@ For details on installing these prerequisites, visit the developers documentatio
 
 ---
 
+## Requirements:
+
+- Linux Operating System (preferably)
+- 2 GB RAM
+- 5 GB of disk space.
+
+---
+
 ## Starting the ParaDB container on localhost
 
 To start the ParaDB and Blast containers on localhost, run the following commands:
