@@ -34,3 +34,7 @@ $ docker-compose up -d
 ```
 
 Access http://localhost in your browser.
+
+
+
+[![Watch the video](https://raw.githubusercontent.com/DugongBioinformatics/dugongbioinformatics.github.io/master/.misc/Screenshot%20from%202017-08-01%2004-41-23.png)](https://www.youtube.com/watch?v=8FlvmERIKJI)
