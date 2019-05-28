@@ -28,8 +28,8 @@ For details on installing these prerequisites, visit the developers documentatio
 To start the ParaDB and Blast containers on localhost, run the following commands:
 
 ```
-$ git clone
-$ cd
+$ git clone https://github.com/ParacoccidioidesDB/paradb.git
+$ cd paradb
 $ docker-compose up -d
 ```
 
