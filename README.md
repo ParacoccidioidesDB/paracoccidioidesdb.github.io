@@ -36,5 +36,41 @@ $ docker-compose up -d
 Access http://localhost in your browser.
 
 
+### EXAMPLE: Video installation ParaDB:
 
-[![Watch the video](https://raw.githubusercontent.com/DugongBioinformatics/dugongbioinformatics.github.io/master/.misc/Screenshot%20from%202017-08-01%2004-41-23.png)](https://www.youtube.com/watch?v=8FlvmERIKJI)
+- Click to watch the installation of ***ParaDB*** on ***Linux***:
+
+[![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://www.youtube.com/watch?v=FkQOJfGIepo)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Author <a name="Author" /> [[menu]](#menu)
+
+Current development is led by Fabiano Menegidio.
+
+## How to cite <a name="Cite" /> [[menu]](#menu)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Contributing <a name="Contributing" /> [[menu]](#menu)
+
+You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
+
+Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
+
+## MIT License <a name="MIT" /> [[menu]](#menu)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+***The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.***
+
+
+## Learn More <a name="Learn-More" /> [[menu]](#menu)
+
+To learn more about Docker, go to:
+
+http://docker.com
+
+https://docs.docker.com/
