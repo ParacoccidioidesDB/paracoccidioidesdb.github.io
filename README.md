@@ -41,7 +41,7 @@ $ cd paradb
 $ docker-compose up -d
 ```
 
-Access http://localhost in your browser.
+Access http://localhost in your browser. If the page is not loaded, wait for the WEB and Database service to be loaded in the containers.
 
 ---
 
