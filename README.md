@@ -46,6 +46,10 @@ Access http://localhost in your browser. If the page is not loaded, wait for the
 
 ### Detail Install:
 
+The installations of Docker and Docker Compose were done according to the official documentation of the Docker project. Details regarding the entire execution process are provided in below. The exact time at which each action is displayed in the video is also provided (in parentheses) next to the instructions below. 
+
+### 
+
 
 [![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://youtu.be/xfxOfKqS-xU)
 
