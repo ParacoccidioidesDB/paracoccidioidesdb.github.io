@@ -32,7 +32,7 @@ For details on installing these prerequisites, visit the developers documentatio
 
 ## Starting the ParaDB container on localhost
 
-### FAST Install
+### FAST Install:
 
 To start the ParaDB and Blast containers on localhost, run the following commands:
 
@@ -44,9 +44,7 @@ $ docker-compose up -d
 
 Access http://localhost in your browser. If the page is not loaded, wait for the WEB and Database service to be loaded in the containers.
 
----
-
-### Detail Install
+### Detail Install:
 
 
 [![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://www.youtube.com/watch?v=FkQOJfGIepo)
