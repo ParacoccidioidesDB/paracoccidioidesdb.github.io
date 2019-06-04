@@ -47,7 +47,7 @@ Access http://localhost in your browser. If the page is not loaded, wait for the
 ### Detail Install:
 
 
-[![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://www.youtube.com/watch?v=FkQOJfGIepo)
+[![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://youtu.be/xfxOfKqS-xU)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
