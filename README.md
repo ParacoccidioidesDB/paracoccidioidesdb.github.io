@@ -12,7 +12,7 @@ All data contained in ParaDB can be partially or completely downloaded through s
 
 # Localhost Install
 
-For a ParaDB installation on your local machine, only a few requirements are required:
+ParaDB installation requirements:
 
 - Docker
 - Docker Compose
@@ -46,7 +46,84 @@ Access http://localhost in your browser. If the page is not loaded, wait for the
 
 ### Detail Install:
 
-The installations of Docker and Docker Compose were done according to the official documentation of the Docker project. Details regarding the entire execution process are provided in below. The exact time at which each action is displayed in the video is also provided (in parentheses) next to the instructions below. 
+Prior to the runs on the videos, the Docker and Docker Compose installations were made according to the official Docker project documentation. Details on the entire execution process are provided below. The exact time each action is displayed in the video is also provided (in parentheses) next to the instructions.
+
+```
+## Validating Docker installation [00:12]
+
+$ docker
+
+## Validating the installation of Docker-Compose [00:22]
+
+$ docker-compose
+
+## Cloning the ParaDB repository on GitHub [00:44]
+
+$ git clone https://github.com/ParacoccidioidesDB/paradb.git
+
+## Accessing the Cloned GitHub Folder [01:22]
+
+$ cd paradb
+
+## Listing the files in the folder [01:25]
+
+ls
+
+## Checking the file of the Docker Compose responsible for starting the ParaDB service [01:34]
+
+$ vi docker-compose.yml
+
+## Checking the container settings: paradb-web, paradb-blast, and paradb-watchtower [01:36]
+ 
+## Checking the network port settings of the paradb-web container [01:44]
+
+## Checking the network port settings for the paradb-blast container [01:55] and the folder sharing settings [02:00]
+
+## Checking the folder-sharing settings of the container paradb-watchtower [02:09] and the monitoring settings for the paradb-web and paradb-blast containers [02:13]
+
+## Checking the Docker service network settings [02:16]
+
+## Listing the Blast service databases [02:32]
+
+$ ls paradb_blast
+
+## Starting the ParaDB service on the local machine [02:49]
+
+$ docker-compose up -d
+
+## Downloading the Docker image: paradb-web [02:54]
+
+## Downloading the Docker image: paradb-blast [06:06]
+
+## Downloading the Docker image: paradb-watchtower [07:04]
+
+## Starting the ParaDB service [07:22]
+
+## Viewing the downloaded Docker images to the machine [07:33]
+
+$ docker images
+
+## Viewing the ParaDB Service Containers [07:45]
+
+$ docker ps
+
+## Displaying the web port (80) of the paradb-web container [07:52]
+
+## Accessing the ParaDB page locally through the address http: // localhost [07:58]
+
+Note: The paradb-web container has the web and database services. It may take a few seconds to become available for access. In case of an error, please wait a few minutes and try again. [08:02]
+
+## Opening the ParaDB homepage [08:04]
+
+## Displaying the web port (4567) of the container paradb-blast [08:18]
+
+## Accessing the ParaDB Blast page locally through the address http: // localhost: 4567 [08:32]
+
+## Accessing the Blast page through the ParaDB interface [08:42]
+
+## ParaDB Access
+```
+
 
 ### 
 
