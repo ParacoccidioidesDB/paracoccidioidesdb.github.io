@@ -48,6 +48,10 @@ Access http://localhost in your browser. If the page is not loaded, wait for the
 
 Prior to the runs on the videos, the Docker and Docker Compose installations were made according to the official Docker project documentation. Details on the entire execution process are provided below. The exact time each action is displayed in the video is also provided (in parentheses) next to the instructions.
 
+
+[![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://youtu.be/xfxOfKqS-xU)
+
+
 ```
 ## Validating Docker installation [00:12]
 
@@ -126,9 +130,6 @@ Note: The paradb-web container has the web and database services. It may take a 
 
 
 ### 
-
-
-[![Watch the video](https://raw.githubusercontent.com/ParacoccidioidesDB/paracoccidioidesdb.github.io/master/images/Screenshot%20from%202019-05-28%2016-05-36.png)](https://youtu.be/xfxOfKqS-xU)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
