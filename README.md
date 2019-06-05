@@ -73,7 +73,8 @@ $ cd paradb
 
 ls
 
-## Checking the file of the Docker Compose responsible for starting the ParaDB service [01:34]
+## Checking the file of the Docker Compose responsible for starting \
+   the ParaDB service [01:34]
 
 $ vi docker-compose.yml
 
