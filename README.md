@@ -73,8 +73,8 @@ $ cd paradb
 
 $ ls
 
-## Checking the file of the Docker Compose responsible for starting the ParaDB 
-   service [01:34]
+## Checking the file of the Docker Compose responsible for starting the 
+   ParaDB service [01:34]
 
 $ vi docker-compose.yml
 
@@ -86,8 +86,9 @@ $ vi docker-compose.yml
 ## Checking the network port settings for the paradb-blast container [01:55] 
    and the folder sharing settings [02:00]
 
-## Checking the folder-sharing settings of the container paradb-watchtower [02:09] 
-   and the monitoring settings for the paradb-web and paradb-blast containers [02:13]
+## Checking the folder-sharing settings of the container paradb-watchtower 
+   [02:09] and the monitoring settings for the paradb-web and paradb-blast 
+   containers [02:13]
 
 ## Checking the Docker service network settings [02:16]
 
@@ -117,17 +118,19 @@ $ docker ps
 
 ## Displaying the web port (80) of the paradb-web container [07:52]
 
-## Accessing the ParaDB page locally through the address http: // localhost [07:58]
+## Accessing the ParaDB page locally through the address 
+   http://localhost [07:58]
 
-Note: The paradb-web container has the web and database services. It may take a few 
-   seconds to become available for access. In case of an error, please wait a few 
-   minutes and try again. [08:02]
+Note: The paradb-web container has the web and database services. It may take 
+   a few seconds to become available for access. In case of an error, please 
+   wait a few minutes and try again. [08:02]
 
 ## Opening the ParaDB homepage [08:04]
 
 ## Displaying the web port (4567) of the container paradb-blast [08:18]
 
-## Accessing the ParaDB Blast page locally through the address http://localhost: 4567 [08:32]
+## Accessing the ParaDB Blast page locally through the address 
+   http://localhost: 4567 [08:32]
 
 ## Accessing the Blast page through the ParaDB interface [08:42]
 
