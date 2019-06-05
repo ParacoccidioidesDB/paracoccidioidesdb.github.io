@@ -71,7 +71,7 @@ $ cd paradb
 
 ## Listing the files in the folder [01:25]
 
-ls
+$ ls
 
 ## Checking the file of the Docker Compose responsible for starting \
    the ParaDB service [01:34]
