@@ -1,6 +1,6 @@
 
 repository: ParacoccidioidesDB/paracoccidioidesdb.github.io
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 name: ParaDB
 title: ParaDB
 description: Paracoccidioides Database
